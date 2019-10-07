@@ -6,9 +6,9 @@ namespace calculadora_de__quadrados
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Calculadora de quadarados!");
+            Console.WriteLine("Calculadora de circulos!");
 
-            Console.WriteLine("Insira o raio do quadrado:");
+            Console.WriteLine("Insira o raio do circulo:");
             string raio = Console.ReadLine();
             decimal raiod = Convert.ToDecimal(raio); 
 
