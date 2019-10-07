@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora_de_ quadrados", "calculadora_de_ quadrados\calculadora_de_ quadrados.csproj", "{73C6BA7E-8502-479C-B791-0B223DEC6BC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C6BA7E-8502-479C-B791-0B223DEC6BC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C6BA7E-8502-479C-B791-0B223DEC6BC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C6BA7E-8502-479C-B791-0B223DEC6BC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C6BA7E-8502-479C-B791-0B223DEC6BC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E622C8F-982B-4BFD-A761-BD2604833F13}
+	EndGlobalSection
+EndGlobal
